@@ -1,0 +1,58 @@
+
+Protocolos de redes de comunicaciones informaticas
+
+Definicion:
+
+Los protocolos son unos estandares o normas establecidas en los 
+que establecen como los diferentes dispositivos y sistemas en una red
+deben comunicarse entre si.
+
+cada uno de los protocolos asume entonces una tarea específica en el 
+medio que se requiera,  puede abarcar sectores como el industrial o empresarial. 
+Y son desarrollados por entidades, organizaciones y personas que trabajan 
+en la industria,institutos de investigación, etc.
+
+Estos protocolos se publican y se aceptan con estandares internacionaes
+ ya sean: ISO, OSI, TCP/IP, etc.
+
+Criterios de clasificacion:
+
+se pueden clasificar de diversas formas según diferentes criterios, ya sea 
+por el propósito, la capa del modelo OSI en la que operan, la forma de intercambio
+de información, la confiabilidad, entre otros. 
+
+-Modelo osi: Se clasifica dependiendo de la capa de modelo osi en que opere, Por ejemplo,
+ HTTP y FTP son protocolos de la capa de aplicación, mientras que TCP y UDP operan en
+ la capa de transporte.
+
+ -Proposito: como protocolos de transferencia de archivos (FTP, SFTP), protocolos de 
+correo electrónico (SMTP, POP3, IMAP), protocolos de navegación web (HTTP, HTTPS), etc.
+
+-Forma de intercambio:
+ *Protocolos orientados a conexión: Establecen una conexión antes de iniciar la transferencia de datos. Ejemplos: TCP, SSH.
+ *Protocolos sin conexión: No establecen una conexión previa y simplemente envían los datos. Ejemplos: UDP, ICMP.
+
+-Direccionalidad de comunicacion:
+
+ *Protocolos simplex: La comunicación ocurre en una sola dirección. Ejemplo: Radio FM.
+ *Protocolos half-duplex: La comunicación puede ocurrir en ambas direcciones, pero no simultáneamente. Ejemplo: Radio walkie-talkie.
+ *Protocolos full-duplex: La comunicación puede ocurrir en ambas direcciones simultáneamente. Ejemplos: Telefonía, TCP.
+
+-Topología de Red:
+Algunos protocolos están diseñados específicamente para ciertas topologías de red,
+como Ethernet para redes locales con topología de bus o estrella.
+
+
+Los protocolos principales:
+
+*Protocolo de Internet (IP): Fundamento de la comunicación en Internet, asigna direcciones únicas a dispositivos y enruta datos.
+
+*Protocolo de Control de Transmisión (TCP): Asegura la entrega confiable y ordenada de datos en redes.
+
+*Protocolo de Transferencia de Hipertexto (HTTP): Para navegación web y transferencia de datos en línea.
+
+*Protocolo de Correo Electrónico (SMTP, POP3, IMAP): Facilitan la transferencia de correos electrónicos.
+
+*Protocolo de Transferencia de Archivos (FTP, SFTP): Para transferir archivos entre sistemas.
+
+*Protocolo de Protocolo de configuración dinámica de host (DHCP): Asigna direcciones IP automáticamente.
