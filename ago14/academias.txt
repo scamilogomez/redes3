@@ -24,3 +24,62 @@ Microsoft Learn:
 *Costos: Los costos varían según la certificación. Pueden incluir tarifas de examen y material de estudio.
 *Cómo Tomarla: Puedes encontrar cursos y rutas de aprendizaje en el sitio web de Microsoft Learn. Los exámenes se realizan a través de Pearson VUE.
 *Fechas: Los exámenes están disponibles durante todo el año en centros de pruebas.
+
+Certificaciones en istitutos y academias:
+
+Inscripción:
+Debes inscribirte en el programa de formación en la institución de tu elección. Es posible que debas cumplir con ciertos requisitos de admisión, como completar una solicitud y cumplir con ciertos niveles educativos.
+
+Duración:
+La duración de la formación puede variar desde varios meses hasta un año o más, dependiendo de la profundidad del programa y la intensidad de las clases.
+
+Horarios:
+Los programas presenciales suelen tener horarios fijos para las clases. Pueden ofrecerse en horarios diurnos o nocturnos, dependiendo de la disponibilidad y preferencia de los estudiantes.
+
+Contenido del Curso:
+Los cursos pueden abarcar una amplia gama de temas relacionados con redes de computadoras, como arquitectura de redes, enrutamiento y conmutación, seguridad de redes, administración de redes y más.
+
+Clases Teóricas y Prácticas:
+Las clases generalmente incluirán componentes teóricos, donde aprenderás los conceptos fundamentales, y componentes prácticos, donde podrás aplicar lo que has aprendido en laboratorios y ejercicios.
+
+Laboratorios y Ejercicios Prácticos:
+La parte práctica es esencial en la formación en redes. Tendrás la oportunidad de trabajar en equipos reales o entornos simulados para configurar, solucionar problemas y administrar redes.
+
+Evaluación:
+Se pueden realizar exámenes y evaluaciones periódicas para medir tu comprensión y progreso en el curso.
+
+Proyectos y Trabajo en Grupo:
+Es posible que tengas que trabajar en proyectos individuales o en grupo que involucren la configuración y administración de redes reales o simuladas.
+
+Certificaciones y Exámenes:
+Algunos programas pueden prepararte para certificaciones reconocidas en la industria, como CompTIA Network+ o CCNA. La formación puede incluir material y práctica específica para estos exámenes.
+
+Asesoramiento y Soporte:
+Puedes recibir asesoramiento de instructores y profesionales del sector. Algunos programas también ofrecen servicios de colocación laboral.
+
+Graduación:
+Una vez que completes el programa y cumplas con los requisitos, recibirás un diploma o certificado que acredita tu formación en redes de computadoras.
+
+certificaciones como:
+
+CompTIA A+: Una certificación de nivel básico que cubre habilidades esenciales de soporte técnico y resolución de problemas en hardware y software.
+
+CompTIA Network+: Certificación que valida habilidades en la configuración y administración de redes, enrutamiento, conmutación y solución de problemas.
+
+CompTIA Security+: Se centra en habilidades de seguridad de TI, cubriendo temas como amenazas de seguridad, criptografía y mejores prácticas de seguridad.
+
+Cisco CCNA (Cisco Certified Network Associate): Certificación reconocida en redes de Cisco que cubre conceptos de networking, enrutamiento y conmutación.
+
+Microsoft Certified: Azure Fundamentals, Azure Administrator Associate: Certificaciones relacionadas con tecnologías de la nube de Microsoft y administración de Azure.
+
+Certificaciones de Linux (como CompTIA Linux+ o LPIC-1): Validan habilidades en la administración y configuración de sistemas Linux.
+
+Certificaciones de Cybersecurity (como CompTIA Cybersecurity Analyst+): Enfocadas en habilidades de análisis de seguridad y respuesta a incidentes.
+
+Certificaciones de VMware (como VMware Certified Professional - VCP): Relacionadas con la virtualización y administración de sistemas VMware.
+
+Certificaciones de ITIL (Information Technology Infrastructure Library): Cubren las mejores prácticas en la gestión de servicios de TI.
+
+Certificaciones específicas de fabricantes de hardware o software: Algunos institutos pueden ofrecer certificaciones específicas de fabricantes, como Microsoft, Cisco, Juniper, etc.
+
+Certificaciones de Ethical Hacking (como Certified Ethical Hacker - CEH): Enfocadas en habilidades de seguridad cibernética desde la perspectiva de un hacker ético.
