@@ -56,3 +56,10 @@ Los protocolos principales:
 *Protocolo de Transferencia de Archivos (FTP, SFTP): Para transferir archivos entre sistemas.
 
 *Protocolo de Protocolo de configuración dinámica de host (DHCP): Asigna direcciones IP automáticamente.
+
+sacado de:
+
+https://autmix.com/blog/que-es-protocolo-red
+https://www.ibm.com/docs/es/aix/7.2?topic=protocols-internet-application-level
+https://autmix.com/blog/que-es-protocolo-red
+(openai 2023) protocolos principales de rede
