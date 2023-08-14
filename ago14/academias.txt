@@ -1,1 +1,26 @@
 
+- Alternativas de formacion en redes de computadoras con posibilidad de certificacion existentes:
+
+Cisco Networking Academy:
+
+*Certificaciones Relevantes: CCNA (Cisco Certified Network Associate), CCNP (Cisco Certified Network Professional).
+*Requisitos: Varían según el nivel de certificación. Para CCNA, no se requieren prerrequisitos específicos, pero conocimientos básicos de redes son útiles.
+*Costos: Los costos varían según la ubicación y el nivel de certificación. Pueden incluir el precio del examen y el material de estudio.
+*Cómo Tomarla: Puedes inscribirte en cursos de Networking Academy a través de su sitio web. Los cursos suelen ser en línea y guiados por instructores.
+*Fechas: Los cursos suelen tener fechas flexibles, pero varían según la ubicación y la institución que ofrezca los cursos.
+
+CompTIA:
+
+*Certificaciones Relevantes: Network+ (CompTIA Network+), Security+ (CompTIA Security+).
+*Requisitos: No se requieren prerrequisitos formales, pero se recomiendan conocimientos básicos de tecnología.
+*Costos: Los costos varían según la certificación y la ubicación. Pueden incluir tarifas de examen y materiales de estudio.
+*Cómo Tomarla: Puedes registrarte para los exámenes en el sitio web de CompTIA o a través de centros de pruebas autorizados.
+*Fechas: Los exámenes suelen estar disponibles durante todo el año en centros de pruebas.
+
+Microsoft Learn:
+
+*Certificaciones Relevantes: Certificaciones de Azure relacionadas con redes y seguridad en la nube.
+*Requisitos: Varían según la certificación, pero generalmente requieren conocimientos de tecnología en la nube y redes.
+*Costos: Los costos varían según la certificación. Pueden incluir tarifas de examen y material de estudio.
+*Cómo Tomarla: Puedes encontrar cursos y rutas de aprendizaje en el sitio web de Microsoft Learn. Los exámenes se realizan a través de Pearson VUE.
+*Fechas: Los exámenes están disponibles durante todo el año en centros de pruebas.
